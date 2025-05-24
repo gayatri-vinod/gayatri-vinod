@@ -5,7 +5,7 @@ Hey there! Gayatri here -
 I'm currently learning and exploring:
 - 🌐 Web development 
 - 💾 Blockchain
-- 📚 Cybersecurity
+- 📚 AI and ML 
 
 ### 🔧 What I Like Doing
 - Turning ideas into actual websites
