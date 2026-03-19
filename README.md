@@ -49,6 +49,7 @@ i am gayatri vinod, a developer passionate about building solutions across web, 
 | substrack    | subscription management tool                             | html/css, charts.js, mysql, php         | sem 4        |
 | city-roots   | urban gardening & community ecom store                   | nextjs, supabase, tailwindcss           | sem 5        |
 | flickchat    | chat application                                        | flutter, machine learning               | sem 5          |
+| greivance redressal | ai based redressal system for greivances | typescript, mongodb | sem 6 |
 
 ### personal
 
