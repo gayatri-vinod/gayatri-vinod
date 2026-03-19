@@ -56,10 +56,7 @@ i am gayatri vinod, a developer passionate about building solutions across web, 
 | project         | description                                                   | tech stack                        |
 | --------------- | ------------------------------------------------------------- | --------------------------------- |
 | weShareIt       | food sharing platform (social innovation-hackathon)           | mern                              |
-| college tracker | personal tool for tracking academic performance and deadlines | nextjs, shadcn, supabase          |
-| oms system      | order management system for startups                          | next.js, mongodb, rest api        |
-| ecom website    | full-stack e-commerce application (restaurant)                | nextjs, express.js, mongodb       |
-| globehive       | social platform for travel experiences                        | nextjs, shadcn, supabase, gsap, spline |
+| gridspace  | personal tool for tracking academic performance and deadlines | nextjs, shadcn, supabase          |
 
 ---
 
